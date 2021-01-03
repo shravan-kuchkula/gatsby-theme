@@ -1,4 +1,4 @@
-# [Made Mistakes](https://mademistakes.com) Source Code
+# Made Mistakes Source Code
 
 This is the source code of Made Mistakes, a personal blog and portfolio built with [Gatsby](https://www.gatsbyjs.org/), [Travis CI](https://travis-ci.org/), and [Netlify](https://www.netlify.com/). Feel free to modify, improve, and learn from it.
 
